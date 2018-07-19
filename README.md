@@ -28,7 +28,9 @@ App Info
 Author
 
 Brad Traversy Traversy Media
+
 Built by Julie Moore
+
 Version
 
 1.0.0
